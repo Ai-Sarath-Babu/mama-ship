@@ -1,0 +1,8 @@
+{
+  "name": "Yalini Exim",
+  "description": "Premium Indian Products Exported Worldwide. Trusted Indian Exporter of Eco Products, FMCG & Industrial Supplies with international B2B quality standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
